@@ -1,2 +1,2 @@
 # PyGame
-Using Python's library ' Pygame ' I make games.
+Using Python's library ' Pygame ' I made a space invader game.
